@@ -10,9 +10,15 @@
   </TextView>
   <Button
     android:id="@+id/btn0"
-    android:text="发布事件到用户"
+    android:text="发布事件到用户333"
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
 
+  </Button>
+  <Button
+    android:id="@+id/btn1"
+    android:text="发布事件到用户555"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
   </Button>
 </LinearLayout>

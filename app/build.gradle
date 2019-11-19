@@ -4,12 +4,12 @@ apply plugin: 'com.aike.router'
 
 /**
  * 插件输出的文件名*/
-def fileName = "course.jar"
+def fileName = "cource.jar"
 
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.aike.plugin.courceplugin"
+        applicationId "com.aike.plugin.cource"
         minSdkVersion 19
         targetSdkVersion 28
         versionCode 1

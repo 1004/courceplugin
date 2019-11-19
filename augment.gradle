@@ -1,12 +1,12 @@
 /**
  * 生成的插件文件名
  */
-def plugnExistName = "course.jar"
+def plugnExistName = "cource.jar"
 
 /**
  * adb push更新时的插件名
  */
-def plugnPushName = "course.jar"
+def plugnPushName = "cource.jar"
 /**
  * 宿主工程包名
  */
