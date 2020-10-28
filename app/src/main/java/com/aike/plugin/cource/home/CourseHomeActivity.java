@@ -2,9 +2,9 @@ package com.aike.plugin.cource.home;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.support.annotation.Nullable;
 import android.util.Log;
 import android.view.View;
+import androidx.annotation.Nullable;
 import com.aike.plugin.cource.R;
 import com.aike.plugin.event.cource.CoureseMainEvent;
 import com.aike.plugin.cource.utils.CourseEventBusUtils;
